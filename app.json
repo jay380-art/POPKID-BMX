@@ -1,9 +1,9 @@
 {
-  "name": "𝐏𝐎𝐏𝐊𝐈𝐃-𝐁𝐌𝐗",
-  "description": "I am POPKID-BMX WhatsApp MultiDevice Bot built in NodeJs to enhance the experience.",
+  "name": "𝐏𝐎𝐏𝐊𝐈𝐃-𝐗𝐓𝐄𝐂𝐇",
+  "description": "I am POPKID-XTECH WhatsApp MultiDevice Bot built in NodeJs to enhance the experience.",
   "logo": "https://files.catbox.moe/kiy0hl.jpg",
   "keywords": ["POPKID-BMX"],
-  "repository": "https://github.com/devpopkid/POPKID-BMX",
+  "repository": "https://github.com/Popkiddevs/POPKID-XTECH",
   "stack": "container",
   "env": { 
       "SESSION_ID": {
