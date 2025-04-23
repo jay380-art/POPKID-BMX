@@ -20,7 +20,7 @@ const config = {
   DELETE_PATH: process.env.DELETE_PATH || "pm",
   MODE: process.env.MODE || "public",
   OWNER_NAME: process.env.OWNER_NAME || "ACER",
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "254768934248",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "254104501712",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
 };
 
